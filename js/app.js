@@ -9,7 +9,7 @@
     // ===== Configuration =====
     const CONFIG = {
         // GASでデプロイしたウェブアプリのURLをここに設定してください
-        API_URL: 'https://script.google.com/macros/s/AKfycbx_CItnwZ4nw7RiIUS1SA-JSNPpsiOk_TaV2ZVhoPVb01AVvniadavisOtUANurlkSh/exec',
+        API_URL: 'https://script.google.com/macros/s/AKfycbw7ZLdlDN2iUT7FjUwu5PSCdP8dND6JcnTeQVSsb1mo4P1uSEyXCo8fHsZ5ZoTurM7r/exec',
         MAX_HISTORY_TURNS: 3,
         MAX_CONVERSATION_TURNS: 3,  // 最大やり取り回数
         TYPEWRITER_SPEED: 50,       // ms per character
